@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>Остали развијачи | Other developers</strong><br>
-  <em>⛔ | ⛔</em>
+  ⛔ | ⛔
 </p>
 
 <p align="center">
