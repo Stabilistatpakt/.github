@@ -1,6 +1,6 @@
 # <p align="center"> [🔻] </p>
 
-##<p align="center">ЕЈ ХЕЈ ХЕЈ ХЕЈ ЕЈ</p>
+## <p align="center">ЕЈ ХЕЈ ХЕЈ ХЕЈ ЕЈ</p>
 
 <p align="center">
   <strong>Главни развијач | Main developer</strong><br>
