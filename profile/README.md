@@ -7,10 +7,7 @@
   <a href="https://github.com/crnobog69">crnobog69</a>
 </p>
 
-<p align="center">
-  <strong>Остали развијачи | Other developers</strong><br>
-  ⛔ | ⛔
-</p>
+### <p align="center"> <strong>Остали развијачи | Other developers</strong><br> ⛔ | ⛔ </p>
 
 <p align="center">
   <strong>Дискусије | Discussions</strong><br>
