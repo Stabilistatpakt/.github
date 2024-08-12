@@ -1,3 +1,3 @@
-ЕЈ ХЕЈ ХЕЈ ХЕЈ
+# ЕЈ ХЕЈ ХЕЈ ХЕЈ
 
-Main developer: [crnobog69](https://github.com/crnobog69)
+### Main developer: [crnobog69](https://github.com/crnobog69)
