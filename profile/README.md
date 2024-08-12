@@ -11,7 +11,7 @@
 
 ### <p align="center"> \\/ --- Остали развијачи | Other developers --- \\/</p>
 
-### <p align="center"> <a href=""> ⛔ </a> </p>
+### <p align="center"> <a href="#"> ⛔ </a> </p>
 
 
 
