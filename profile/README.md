@@ -2,7 +2,7 @@
 
 ## <p align="center">ЕЈ ХЕЈ ХЕЈ ХЕЈ ЕЈ</p>
 
-### <p align="center"> <strong>Главни развијач | Main developer</strong><br> <a href="https://github.com/crnobog69" style="color: #ADD8E6; text-decoration: none;">crnobog69</a> </p>
+### <p align="center"> <strong>Главни развијач | Main developer</strong><br> <a href="https://github.com/crnobog69" style="color: red; text-decoration: none;">crnobog69</a> </p>
 
 ### <p align="center"> <strong>Остали развијачи | Other developers</strong><br> <a href="#"> ⛔ | ⛔ </a> </p>
 
