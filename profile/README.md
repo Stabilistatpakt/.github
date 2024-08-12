@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/api/placeholder/64/64" alt="Logo" width="64" height="64" />
+   [🔻]
 </p>
 
 # <p align="center">ЕЈ ХЕЈ ХЕЈ ХЕЈ ЕЈ</p>
@@ -20,9 +20,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://github.com/Stabilistatpakt">
-    <img src="/api/placeholder/88/31" alt="GitHub" width="88" height="31" />
-  </a>
-</p>
