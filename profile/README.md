@@ -8,4 +8,4 @@
 
 ### <p align="center"> \\/ --- Дискусије | Discussions --- \\/</p>
 
-### <p align="center"> <a href="https://github.com/orgs/Stabilistatpakt/discussions</a> Дискусије | Discussions </p>
+### <p align="center"> <a href="https://github.com/orgs/Stabilistatpakt/discussions"> </a> Дискусије | Discussions </p>
